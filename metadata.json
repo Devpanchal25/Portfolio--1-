@@ -1,0 +1,7 @@
+{
+  "name": "Dev Panchal - AI Portfolio 2",
+  "description": "A modern, dark-themed developer portfolio for Panchal Dev Ghanshyambhai, featuring an interactive AI career assistant powered by Gemini.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
